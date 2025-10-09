@@ -1,7 +1,7 @@
 #  Blogger — Modern Developer Blog
 
 A beautifully designed, fast, and SEO-optimized **Next.js blog** built with **TailwindCSS**, **Velite**, and **MDX**.  
-Write, publish, and share articles effortlessly — from productivity hacks to advanced web development techniques.
+Write, publish, and share articles effortlessly  from productivity hacks to advanced web development techniques.
 
 ![Next.js](https://img.shields.io/badge/Next.js-15-black?style=flat-square&logo=nextdotjs)
 ![React](https://img.shields.io/badge/React-19-61dafb?style=flat-square&logo=react)
